@@ -17,6 +17,14 @@
         <li><strong>Hilt</strong>: A dependency injection library for Android.</li>
         <li><strong>RxJava</strong>: A reactive programming library for composing asynchronous and event-based programs.</li>
     </ul>
-<img align="right" src="image.gif" width = 250px/>
+      <h2 class="video-title">The Application</h2>
+<p align="center">
+  <img src="image3.jpeg" width="30%" />
+  <img src="image.jpeg" width="30%" />
+  <img src="image2.jpeg" width="30%" />
+</p>
+
+
+
 </body>
 </html>
